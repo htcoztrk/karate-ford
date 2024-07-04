@@ -1,0 +1,50 @@
+{
+  "Request": {
+    "ProcessTypeCode": 2,
+    "UnitCode": "00382",
+    "CardTypeCode": 0,
+    "CardNumber": "",
+    "KocAilemNumber": null,
+    "KocFamilyMemberTypeCode": "-1",
+    "KocCompanyTypeCode": "-999",
+    "KocFamilyCustomerTypeCode": null,
+    "KocFamilyCrmCustomerId": null,
+    "ExternalCampaignCode": null,
+    "UserName": "testsys4",
+    "CrmCustomerId": "A0294655-8F2E-E911-A988-000D3AB2924F",
+    "VinNumber": "WF0JXXGAJJAG63724",
+    "PtvlId": "49535A36-D8DE-E911-A812-000D3AB4F886",
+    "EcoserviceLabourCode": "",
+    "ClientTypeValue": "23990",
+    "ClientTypeCode": 3,
+    "CrmOpportunityId": "5AB0244D-77B7-40B6-A239-9EBF3F1B205D",
+    "CustomerTypeCode": 2,
+    "WorkOrderType": 99,
+    "InsuranceTypeCode": 3,
+    "VehicleFirstControl": 0,
+    "TransactionTotalAmount": 5874.781910,
+    "SpidsPartTotal": 0.0,
+    "DoNotApply": false,
+    "HasFleetDiscount": 0,
+    "IsFast": 0,
+    "InsuranceAccountTypeCode": null,
+    "ProductList": [
+      {
+        "RowNumber": 293,
+        "Id": "25D6715C-303E-E811-A956-000D3AB50A67",
+        "Name": "S_IÅžEMRIAÃ‡ILIÅž",
+        "Quantity": 1.0,
+        "UnitAmount": 4895.651910,
+        "ListAmount": 4895.651910,
+        "TaxRate": 20.0,
+        "Type": "F",
+        "DiscountPercent": 0.0
+      }
+    ],
+    "FoleDiscountAmount": 0.0,
+    "IsCustomerSpecialCoupon": false,
+    "CouponCode": null,
+    "CouponDefinitionId": null,
+    "OfferValidityDate": "2023-10-01T00:00:00"
+  }
+}

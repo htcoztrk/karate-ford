@@ -1,0 +1,14 @@
+{
+  "Request": {
+    "Firstname": "",
+    "Middlename": "",
+    "Lastname": "",
+    "IdentityNumber": "",
+    "PassportNumber": "",
+    "PhoneNumber": "",
+    "EmailAddress": "",
+    "OpsCustomerNumber": "",
+    "ContactId": "",
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d"
+  }
+}

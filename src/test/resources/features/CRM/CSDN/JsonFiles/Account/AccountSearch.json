@@ -1,0 +1,11 @@
+{
+  "Request": {
+    "Name": "test",
+    "TaxNumber": "3",
+    "PhoneNumber": "05555555555",
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d",
+    "AccountId": "9a566e28-81de-ed11-a7c6-0022489bd56e",
+    "AccountNumber": "5",
+    "EmailAddress": "test@gmail.com"
+  }
+}

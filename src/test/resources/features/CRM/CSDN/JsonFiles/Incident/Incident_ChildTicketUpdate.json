@@ -1,0 +1,8 @@
+{
+  "Request": {
+    "TicketNumber": "FRD-270772-K8R6",
+    "FaydaChildTicketServiceCode":1,
+    "FaydaChildTicketStatusCode": 2,
+    "SourceSystemCode": 2
+  }
+}

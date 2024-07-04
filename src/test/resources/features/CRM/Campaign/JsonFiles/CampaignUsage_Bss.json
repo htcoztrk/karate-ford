@@ -1,0 +1,10 @@
+{
+  "TranId": "6cac1027-18c9-4c0a-a79a-2f71eaa1e847",
+  "InvoiceDate": "2023-09-06T14:16:13.3916545+03:00",
+  "InvoiceNo": "TestInvoiceNo",
+  "UserName": "TestUserName",
+  "TransactionNewTotalAmount": 1540.5,
+  "CampaignList": [
+    "3fd72cca-98b1-ec11-9840-000d3ab089fa"
+  ]
+}

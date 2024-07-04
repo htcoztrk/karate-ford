@@ -1,0 +1,46 @@
+{
+  "Request": {
+    "UserId": "4c547258-144a-ed11-bba2-0022489b79f1",
+    "SourceSystemCode": 1,
+    "CustomerType": "contact",
+    "CustomerId": "08ae1e76-8cdd-eb11-bacb-000d3ab35022",
+    "ContactId": "08ae1e76-8cdd-eb11-bacb-000d3ab35022",
+    "MainCategoryId": "1",
+    "OpportunityId": "d2f06ea2-32b8-ed11-83ff-0022489981f4",
+    "OpsQuoteId": "8051180",
+    "PaymentTypeCode": 4,
+    "Description": "sample string 6",
+    "OpsCreatedOn": "2023-07-07 00:00",
+    "ModelYearCode": "2009",
+    "EffectiveTo": "2023-07-07 20:29",
+    "IsSpecialPrice": true,
+    "IsScale": true,
+    "BusinessUnitId": "9e1e001d-2dc4-e711-a95b-000d3ab6eff5",
+    "CurrencyId": "dc0af703-34c4-e711-a95b-000d3ab6eff5",
+    "VehicleGroupId": "6b1e3b21-31d1-e711-a94b-000d3ab29582",
+    "OpportunityCategoryId": "3f3e68cf-30d1-e711-a94b-000d3ab29582",
+    "QuoteDetailData": [
+      {
+        "OpsQuoteDetailId": "fe22rhat112123556667",
+        "ProductId": "85049d14-7221-ee11-9966-0022489b7b24",
+        "Quantity": "1",
+        "Description": "test",
+        "IsProductOverridden": true,
+        "UomId": "21c6682e-281d-e811-a953-000d3ab50a67",
+        "IsPriceOverridden": true,
+        "ManualDiscountAmount": "1",
+        "Tax": "000",
+        "PricePerUnit": "1",
+        "TaxLabel": "2",
+        "SwapVehicle": "1",
+        "OtherCosts": "1",
+        "FODiscount": "1",
+        "PlateAmount": "1",
+        "DealerDiscount": "1",
+        "OpsTotalAmount": "1",
+        "OtvBaseAmount": "1",
+        "DealerDiscountTotal": "1"
+      }
+    ]
+  }
+}

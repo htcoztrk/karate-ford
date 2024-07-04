@@ -1,0 +1,15 @@
+{
+  "Request": {
+    "ApplicationId": "b64a486f-aac4-e811-a978-000d3ab50338",
+    "RelationId": "07a74c7a-acd3-ed11-a7c7-0022489b74fe",
+    "CreatedById": "08ae1e76-8cdd-eb11-bacb-000d3ab35022",
+    "VehicleList": [
+      {
+        "VehicleId": "071117da-2afa-e711-a94f-000d3ab50338"
+      },
+      {
+        "VehicleId": "071117da-2afa-e711-a94f-000d3ab50338"
+      }
+    ]
+  }
+}

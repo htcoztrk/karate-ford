@@ -1,0 +1,14 @@
+{
+  "Request": {
+    "UserId": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d",
+    "AccountId": "05a4e28a-d20b-e811-a94f-000d3ab29321",
+    "ContactId": "c6718f0b-d50b-e811-a94f-000d3ab29321",
+    "MainCategoryId": "590e0fc5-30d1-e711-a94b-000d3ab29582",
+    "VehicleGroupId": "6b1e3b21-31d1-e711-a94b-000d3ab29582",
+    "SubCategoryId": "3d849605-71c2-e911-a996-000d3ab29582",
+    "ChannelId": "2aa2658f-7075-e811-a95f-000d3ab2924f",
+    "SourceId": "703ab4ac-7375-e811-a95f-000d3ab2924f",
+    "OpportunityTypeCode": 1,
+    "SourceSystemCode": 2
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Request": {
+    "UnitCode": "Y0420",
+    "ProcessTypeCode": 1,
+    "UserName": "testbss3",
+    "DoNotApply": false,
+    "CardTypeCode": 0,
+    "CardNumber": "1112223334445555",
+    "KocAilemNumber": 2,
+    "CustomerTypeCode": 2,
+    "CrmCustomerId": "68C98432-A788-EB11-A812-000D3AB4AA1E",
+    "CrmOpportunityId": "34985EAF-EBB1-481F-9038-7DAC0512A3E7",
+    "VinNumber": "JTDKW9231B5175166",
+    "ClientTypeCode": 2,
+    "PaymentTypeCode": 2,
+    "SalesTypeCode": "5924",
+    "UsingInfo": 0,
+    "ProductList": [
+      {
+        "RowNumber": 1,
+        "Id": "a30dfab7-50bb-e811-a96e-000d3ab50a67",
+        "Name": "FOCUS TITANIUM 5K 1.5L TDCI 120PS 8S AT",
+        "ModelId": "8700ec86-cfef-e711-a94c-000d3ab2924f",
+        "ModelYear": 2023,
+        "Quantity": 5,
+        "UnitAmount": 260000,
+        "BaseUnitAmount": 120000,
+        "WholeSaleAmount": 0
+      },
+      {
+        "RowNumber": 2,
+        "Id": "638a0fe6-12bc-e811-a96e-000d3ab50a67",
+        "Name": "PANORAMIK CAM TAVAN",
+        "ModelId": "8700ec86-cfef-e711-a94c-000d3ab2924f",
+        "ModelYear": 2023,
+        "Quantity": 1,
+        "UnitAmount": 50000,
+        "BaseUnitAmount": 50000,
+        "WholeSaleAmount": 0
+      },
+      {
+        "RowNumber": 3,
+        "Id": "678a0fe6-12bc-e811-a96e-000d3ab50a67",
+        "Name": "BUZ BEYAZI",
+        "ModelId": "8700ec86-cfef-e711-a94c-000d3ab2924f",
+        "ModelYear": 2023,
+        "Quantity": 1,
+        "UnitAmount": 0,
+        "BaseUnitAmount": 0,
+        "WholeSaleAmount": 0
+      }
+    ],
+    "Date": "2022.12.22 00:00:00",
+    "ModelYear": "2023",
+    "KocFamilyMemberTypeCode": "2",
+    "KocFamilyCrmCustomerId": "68c98432-a788-eb11-a812-000d3ab4aa1e",
+    "KocCompanyTypeCode": "3099",
+    "RetiredDate": "2022.12.21 00:00:00",
+    "SourceTypeCode": 2
+  }
+}

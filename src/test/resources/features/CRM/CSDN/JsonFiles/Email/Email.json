@@ -1,0 +1,44 @@
+{
+  "Request": {
+    "Owner": "a8c1f1a5-c9c1-ea11-a812-000d3a64a318",
+    "From": {
+      "TypeCode": 3,
+      "Id": "a8c1f1a5-c9c1-ea11-a812-000d3a64a318"
+    },
+    "To": [
+      {
+        "TypeCode": 2,
+        "Id": "677bb694-fc9b-ea11-a812-000d3a64a318"
+      },
+      {
+        "TypeCode": 2,
+        "Id": "160b635d-68b1-ea11-a812-000d3a64a318"
+      }
+    ],
+    "Cc": [
+      {
+        "TypeCode": "2",
+        "Id": "2c53e7a3-4490-ea11-a811-000d3a64a52d"
+      },
+      {
+        "TypeCode": 2,
+        "Id": "59a9851c-f18d-ea11-a811-000d3a64a52d"
+      }
+    ],
+    "Bcc": [
+      {
+        "TypeCode": 2,
+        "Id": "5a048a2b-a7ba-ea11-a812-000d3a64a318"
+      },
+       {
+         "TypeCode": 2,
+         "Id": "141fc656-865e-e811-a957-000d3ab2924f"
+       }
+    ],
+    "Subject": "test",
+    "Description": "test",
+    "CheckBlackList": true,
+    "PlannedSendingDate": "2009-01-01 00:00",
+    "SourceSystem": 2
+  }
+}

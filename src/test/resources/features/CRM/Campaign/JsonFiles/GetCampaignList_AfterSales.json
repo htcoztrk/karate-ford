@@ -1,0 +1,12 @@
+{
+  "Request":{
+    "AfterSales": true,
+    "ProcessTypeCode": 2,
+    "SourceTypeCode": 1,
+    "EmployeeRelationTypeCode": 1,
+    "CrmCustomerId": "836bf27e-e65d-ea11-a811-000d3ab4f64c",
+    "CustomerTypeCode": 2,
+    "VinNumber":"WF0ZXXTTGZNG20311",
+    "PtvlId":"49535a36-d8de-e911-a812-000d3ab4f886"
+  }
+}

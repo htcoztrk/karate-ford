@@ -1,0 +1,18 @@
+{
+  "Request": {
+    "Id": "df53c962-22ef-ed11-8849-0022489bda5d",
+    "SourceSystem": 2,
+    "IdentityNumber": "",
+    "BirthDate": "1998-11-04",
+    "GenderCode": "2",
+    "FamilyStatusCode": "2",
+    "DisabilityCode": "1",
+    "PhoneNumber": "0555555557744",
+    "PhoneType": "kdl",
+    "EmailAddress": "test@gmail.com",
+    "IsVerifiedPhone": true,
+    "IsVerifiedEmail": true,
+    "IsVerifiedIdentityNumber": true,
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d"
+  }
+}

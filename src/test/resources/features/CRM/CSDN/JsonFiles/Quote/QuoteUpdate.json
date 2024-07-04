@@ -1,0 +1,17 @@
+{
+  "Request": {
+    "QuoteId": "13d17d88-7c2b-ee11-bdf4-0022489b7f64",
+    "UserId": "4c547258-144a-ed11-bba2-0022489b79f1",
+    "SourceSystemCode": 2,
+    "OpsModifiedBy": "2023-07-07 01:00",
+    "OpsModifiedOn": "2023-07-07 02:00",
+    "PaymentTypeCode": 4,
+    "Description": "testt",
+    "ModelYearCode": 2009,
+    "EffectiveTo": "2023-07-07 03:00",
+    "IsSpecialPrice": true,
+    "IsScale": true,
+    "StateCode": "1",
+    "StatusCode": "200000006"
+  }
+}

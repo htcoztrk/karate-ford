@@ -1,0 +1,212 @@
+{
+  "Request": {
+    "CustomerBehaviorList": [
+      {
+        "AdditionalServicesTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "BlackListTypeCode": 1,
+        "CustomerBehaviorSegmentationId": "6d812986-0a92-eb11-b1ac-000d3adb2c47",
+        "CustomerId": "8381af4c-be2d-ed11-9db1-0022489ca554",
+        "CustomerMainTypeCode": 1,
+        "CustomerSubTypeCode": 1,
+        "EndUserTypeCode": 1,
+        "ExposuretimeTypeCode": 1,
+        "FinancePartnerTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "FinancialChannelTypeCode": 1,
+        "FinsuranceStatusTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "FordoptionsTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "Isguaranteed": true,
+        "IsnewsaleCustomer": true,
+        "IsnewServiceCustomer": true,
+        "ProcessTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "PurchaseaimTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "SaleActivityTypeCode": 1,
+        "SaleActuality": 1,
+        "SaleActualityScore": 1,
+        "SaleEndorsement": 1,
+        "SaleEndorsementScore": 1,
+        "SaleFrequency": 1,
+        "SaleFrequencyScore": 1,
+        "SaleLoyalTypeCode": 1,
+        "SaleProfitability": 1,
+        "SaleProfitabilityScore": 1,
+        "Salequantity": 1,
+        "SalequantityScore": 1,
+        "SalevalueScore": 1,
+        "SaleValueTypeCode": 1,
+        "SecondHandSaleLoyalTypeCode": 1,
+        "SecondHandServiceLoyalTypeCode": 1,
+        "ServiceActivityTypeCode": 1,
+        "ServiceActualityScore": 1,
+        "ServiceActuality": 1,
+        "ServiceEndorsement": 1,
+        "ServiceEndorsementScore": 1,
+        "ServiceFrequency": 1,
+        "ServiceFrequencyScore": 1,
+        "ServiceitemTypeCode": 1,
+        "ServiceLoyalTypeCode": 1,
+        "ServiceLoyaltyRatio": 1,
+        "ServiceLoyaltyRatioScore": 1,
+        "ServiceMainTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "ServiceProfitability": "1",
+        "ServiceProfitabilityScore": "1",
+        "ServicevalueScore": "1",
+        "ServicevalueTypeCode": "1",
+        "TotalvalueScore": "1",
+        "TotalvalueSegmentTypeCode": "1",
+        "SegmentationPeriod": "2"
+      },
+      {
+        "AdditionalServicesTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "BlackListTypeCode": 1,
+        "CustomerBehaviorSegmentationId": "90d2655f-161a-ec11-b6e6-000d3ab3e425",
+        "CustomerId": "5f35705b-6030-ee11-bdf4-0022489b7f64",
+        "CustomerMainTypeCode": 1,
+        "CustomerSubTypeCode": 1,
+        "EndUserTypeCode": 1,
+        "ExposuretimeTypeCode": 1,
+        "FinancePartnerTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "FinancialChannelTypeCode": 1,
+        "FinsuranceStatusTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "FordoptionsTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "Isguaranteed": true,
+        "IsnewsaleCustomer": true,
+        "IsnewServiceCustomer": true,
+        "ProcessTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "PurchaseaimTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "SaleActivityTypeCode": 1,
+        "SaleActuality": 1,
+        "SaleActualityScore": 1,
+        "SaleEndorsement": 1,
+        "SaleEndorsementScore": 1,
+        "SaleFrequency": 1,
+        "SaleFrequencyScore": 1,
+        "SaleLoyalTypeCode": 1,
+        "SaleProfitability": 1,
+        "SaleProfitabilityScore": 1,
+        "Salequantity": 1,
+        "SalequantityScore": 1,
+        "SalevalueScore": 1,
+        "SaleValueTypeCode": 1,
+        "SecondHandSaleLoyalTypeCode": 1,
+        "SecondHandServiceLoyalTypeCode": 1,
+        "ServiceActivityTypeCode": 1,
+        "ServiceActualityScore": 1,
+        "ServiceActuality": 1,
+        "ServiceEndorsement": 1,
+        "ServiceEndorsementScore": 1,
+        "ServiceFrequency": 1,
+        "ServiceFrequencyScore": 1,
+        "ServiceitemTypeCode": 1,
+        "ServiceLoyalTypeCode": 1,
+        "ServiceLoyaltyRatio": 1,
+        "ServiceLoyaltyRatioScore": 1,
+        "ServiceMainTypeCode": [
+          {
+            "Value": 1
+          },
+          {
+            "Value": 1
+          }
+        ],
+        "ServiceProfitability": 1,
+        "ServiceProfitabilityScore": 1,
+        "ServicevalueScore": 1,
+        "ServicevalueTypeCode": 1,
+        "TotalvalueScore": 1,
+        "TotalvalueSegmentTypeCode": 1,
+        "SegmentationPeriod": "2"
+      }
+    ]
+  }
+}

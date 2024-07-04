@@ -1,0 +1,15 @@
+{
+  "Request": {
+    "Id": "5ae37b72-2d0a-ee11-8f6e-0022489bda5d",
+    "AddressTypeCode": 2,
+    "CountryId": "05c3a223-1bd1-e711-a94a-000d3ab44f88",
+    "CityId": "c098cdd4-1bd1-e711-a94a-000d3ab4463e",
+    "CountyId": "7d0fc3c1-1dd1-e711-a94c-000d3ab44741",
+    "PostalCodeId": "8c2e6505-2dd1-e711-a94a-000d3ab4463e",
+    "AddressFullText": "test test test",
+    "PriorityNumber": 1,
+    "Status": 1,
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d",
+    "SourceSystem": 4
+  }
+}

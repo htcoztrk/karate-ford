@@ -1,0 +1,15 @@
+{
+  "Request": {
+    "SourceSystem": 2,
+    "Name": "test",
+    "CompanyTypeCode": "11",
+    "TaxOffice": "7fe867d0-2ad1-e711-a94a-000d3ab4463e",
+    "TaxNumber": "3",
+    "PhoneNumber": "0555555555555",
+    "EmailAddress": "5@gmail.com",
+    "Department": "d50ba8f5-7baa-ec11-983f-0022489f4d82",
+    "PhoneType": 0,
+    "TradeRegistrationNumber": "8",
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d"
+  }
+}

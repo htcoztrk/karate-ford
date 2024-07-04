@@ -1,0 +1,17 @@
+{
+  "Request": {
+    "ProcessTypeCode": 1,
+    "PaymentTypeCode": [
+      1,
+      1
+    ],
+    "SalesTypeCode": [
+      5922,
+      5923
+    ],
+    "ModelId": "fb92a180-cfef-e711-a94c-000d3ab2924f",
+    "ProductId": "30ea6638-735b-ed11-9562-0022489981f4",
+    "CustomerTypeCode": "2",
+    "CrmCustomerId": "CDB912D1-9BCF-EB11-BACC-000D3AB2FF86"
+  }
+}

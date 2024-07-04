@@ -1,0 +1,15 @@
+{
+  "Request": {
+    "CustomerId": "08ae1e76-8cdd-eb11-bacb-000d3ab35022",
+    "CustomerType": "2",
+    "AddressTypeCode": "1",
+    "CountryId": "05c3a223-1bd1-e711-a94a-000d3ab44f88",
+    "CityId": "c098cdd4-1bd1-e711-a94a-000d3ab4463e",
+    "CountyId": "7d0fc3c1-1dd1-e711-a94c-000d3ab44741",
+    "PostalCodeId": "8c2e6505-2dd1-e711-a94a-000d3ab4463e",
+    "AddressFullText": "testtesttest",
+    "PriorityNumber": "1",
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d",
+    "SourceSystem": "2"
+  }
+}

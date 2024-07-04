@@ -1,0 +1,26 @@
+{
+  "Request": {
+    "ProcessTypeCode": 1,
+    "CustomerTypeCode": 2,
+    "ParentAccountId": "677bb694-fc9b-ea11-a812-000d3a64a318",
+    "ParentContactId": "1072cb37-8672-ea11-a811-000d3a64a318",
+    "JobTitleCode": 1,
+    "GenderCode": 2,
+    "VehicleId": "071117da-2afa-e711-a94f-000d3ab50338",
+    "PhoneNumber": "0537872355877",
+    "MobilePhone": "0556545558995",
+    "EmailAddress": "eyantut@ford.com.tr",
+    "ChannelTypeCode": 4,
+    "ResourceTypeCode": 1,
+    "TriggerTypeCode": 3,
+    "Description": "test test test",
+    "LastUpdateSystemCode": 9,
+    "SourceSystemCode": 2,
+    "CompanyName": "AIC Trucks S.R.L Bayisi",
+    "Firstname": "elif",
+    "Middlename": "test",
+    "Lastname": "elif",
+    "Birthdate": "1998-11-04",
+    "BusinessUnitId": "63fd0b05-9dd6-e711-a94a-000d3ab29e2e"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Request": {
+    "ProcessTypeCode": 2,
+    "DoNotApply": false,
+    "UnitCode": "02131",
+    "CardTypeCode": 0,
+    "CardNumber": "111#$½&777777777777777777779999977777777",
+    "KocAilemNumber": 2,
+    "UserName": "testsys2",
+    "CrmCustomerId": "0F2C0E07-5B1D-ED11-B83D-000D3A654DD5",
+    "VinNumber": "NM0H01TEDF8K71149",
+    "ClientTypeCode": 3,
+    "ClientTypeValue": "360",
+    "CrmOpportunityId": "34985EAF-EBB1-481F-9038-7DAC0512A3E7",
+    "CustomerTypeCode": 2,
+    "WorkOrderType": 35,
+    "InsuranceTypeCode": 3,
+    "InsuranceAccountTypeCode": 5,
+    "VehicleFirstControl": 0,
+    "TransactionTotalAmount": 4645.72,
+    "TotalTransactionTotalAmountWithoutGuarenteedLines": 100,
+    "CargoCumulativeTotal": 50,
+    "SpidsPartTotal": 0.0,
+    "EcoserviceLabourCode": "test",
+    "PtvlId": "BBBEFC11-F001-E911-A985-000D3AB29E2E",
+    "HasFleetDiscount": 0,
+    "IsFast": 0,
+    "FoleDiscountAmount": 0.0,
+    "ProductList": [
+      {
+        "RowNumber": 1,
+        "Id": "55b77c1d-cacf-ed11-b597-0022489a5733",
+        "Name": "DSI BAKIM PAKETİ 1",
+        "Quantity": 1.0,
+        "UnitAmount": 3871.43,
+        "ListAmount": 3871.43,
+        "TaxRate": 774.29,
+        "Type": "F",
+        "DiscountPercent": 0.0
+      }
+    ],
+    "KocFamilyMemberTypeCode": 1,
+    "KocCompanyTypeCode": 3099,
+    "KocFamilyCustomerTypeCode": 2,
+    "KocFamilyCrmCustomerId": "68c98432-a788-eb11-a812-000d3ab4aa1e",
+    "ExternalCampaignCode": "test",
+    "CouponCode": "testdeneme1",
+    "CouponDefinitionId": "253B6A1B-2452-EE11-BE6E-000D3ABA48BE"
+  }
+}

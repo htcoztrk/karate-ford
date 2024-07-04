@@ -1,0 +1,21 @@
+{
+  "Request": {
+    "SourceSystem": 2,
+    "Firstname": "test",
+    "Middlename": "test",
+    "Lastname": "test",
+    "IdentityNumber": "",
+    "BirthDate": "1998-11-04",
+    "GenderCode": 2,
+    "FamilyStatusCode": 2,
+    "DisabilityCode": 1,
+    "PhoneNumber": "0555123456789",
+    "PhoneType": 0,
+    "EmailAddress": "test@gmail.com",
+    "IsVerifiedPhone": true,
+    "IsVerifiedEmail": true,
+    "IsVerifiedIdentityNumber": true,
+    "Department": "d50ba8f5-7baa-ec11-983f-0022489f4d82",
+    "User": "69ad94f2-dbf2-4a4b-b753-de18a7e10e8d"
+  }
+}

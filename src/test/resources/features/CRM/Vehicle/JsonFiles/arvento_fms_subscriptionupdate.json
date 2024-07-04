@@ -1,0 +1,16 @@
+{
+  "Request": {
+    "StartDate": "2023-03-03",
+    "EndDate": "2023-05-03",
+    "VIN": "NM0A08TEDC1U32839",
+    "InvoiceAmount": "4",
+    "TachographInvoiceAmount": "5",
+    "PremiumInvoiceAmount": "3",
+    "CustomerTypeCode": "7",
+    "ArventoCustomerName": "FordTest",
+    "ArventoVknTckn": "Test",
+    "ArventoTaxOffice": "Test",
+    "SourceSystemCode": 8,
+    "ArventoSubscriptionTypeCode": 3
+  }
+}

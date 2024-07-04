@@ -1,0 +1,12 @@
+{
+  "Request": {
+    "CrmUI": "true",
+    "ProcessTypeCode": 2,
+    "CrmCustomerId": "A0294655-8F2E-E911-A988-000D3AB2924F",
+    "VinNumber": "JTDKW9231B5175166",
+    "PtvlId": "bbbefc11-f001-e911-a985-000d3ab29e2e",
+    "CustomerTypeCode": 2,
+    "CardTypeCode": 1,
+    "CardNumber": "1111111111111111"
+  }
+}

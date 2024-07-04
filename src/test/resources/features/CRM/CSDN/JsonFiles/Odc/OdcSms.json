@@ -1,0 +1,20 @@
+{
+  "Request": {
+    "Subject": "test",
+    "Description": "test",
+    "From": "5b4b038c-4ae3-e811-a97b-000d3ab2924f",
+    "To": [
+      {
+        "TypeCode": 1,
+        "Id": "5337096d-89f5-e911-a813-000d3ab4f64c"
+      },
+      {
+        "TypeCode": 3,
+        "Id": "106937cc-1d0b-e811-a94f-000d3ab2924f"
+      }
+    ],
+    "CheckBlackList": true,
+    "SourceSystem": "2",
+    "Owner": "a8c1f1a5-c9c1-ea11-a812-000d3a64a318"
+  }
+}
